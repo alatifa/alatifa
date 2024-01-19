@@ -26,8 +26,7 @@ packages, and database triggers
 • Responsible the implementation phase with GBO/Global Batch Ops – Asia teams.
 • Providing the data for FAS SSIS testing web appl (HSBC H2H, Danamon H2H).
 • Conducting the post implementation if necessary.
-#### 2. [Federal International Finance FIF Group](https://www.fifgroup.co.id/) | Senior Oracle
-Developer | Jakarta `2017-2022`
+#### 2. [Federal International Finance FIF Group](https://www.fifgroup.co.id/) | Senior Oracle Developer| Jakarta `2017-2022`
 Scope: Oracle Form 12c & Report, Oracle PL/SQL
 Working in a Working Group team to solving problems and providing solutions.
 • Creating new PL/SQL scripts.
