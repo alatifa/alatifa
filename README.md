@@ -15,16 +15,16 @@
 
 ## Work Experience:
 #### 1. [Manulife Indonesia]](https://www.manulife.co.id/) | Oracle Backend Software Engineer | Jakarta `Jul'2022 - Dec'2023`
-- Scope: Oracle Form 12c & Report, Oracle PL/SQL, Implementations.
+Scope: Oracle Form 12c & Report, Oracle PL/SQL, Implementations.
 Working in a Finance Squad team (PM,PO,User) to solving problems and providing solutions in
 Core System Apps (CAS, CAS4G) that related with finance and treasury process (scrum
 methode).
 - Enhancement Oracle Form/Report, PLL, Oracle PL/SQL stored procedures, functions,
 packages, and database triggers
-• Conducting Development, SIT, UAT, PAT phase and completed with documentation.
-• Responsible the implementation phase with GBO/Global Batch Ops – Asia teams.
-• Providing the data for FAS SSIS testing web appl (HSBC H2H, Danamon H2H).
-• Conducting the post implementation if necessary.
+- Conducting Development, SIT, UAT, PAT phase and completed with documentation.
+- Responsible the implementation phase with GBO/Global Batch Ops – Asia teams.
+- Providing the data for FAS SSIS testing web appl (HSBC H2H, Danamon H2H).
+- Conducting the post implementation if necessary.
 #### 2. [Federal International Finance FIF Group](https://www.fifgroup.co.id/) | Senior Oracle Developer| Jakarta `2017-2022`
 Scope: Oracle Form 12c & Report, Oracle PL/SQL
 Working in a Working Group team to solving problems and providing solutions.
