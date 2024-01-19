@@ -14,13 +14,12 @@
  #### 2. [SMK N 7 Semarang](https://smkn7smg.sch.id/website/) | Majoring in electronica communication | Semarang `1992-1996`
 
 ## Work Experience:
-#### 1. [Manulife Indonesia]([https://www.huawei.com](https://www.manulife.co.id/)) | Oracle Backend Software
-Engineer | Jakarta `Jul'2022 - Dec'2023`
-Scope: Oracle Form 12c & Report, Oracle PL/SQL, Implementations.
+#### 1. [Manulife Indonesia]([https://www.huawei.com](https://www.manulife.co.id/)) | Oracle Backend Software Engineer | Jakarta `Jul'2022 - Dec'2023`
+- Scope: Oracle Form 12c & Report, Oracle PL/SQL, Implementations.
 Working in a Finance Squad team (PM,PO,User) to solving problems and providing solutions in
 Core System Apps (CAS, CAS4G) that related with finance and treasury process (scrum
 methode).
-• Enhancement Oracle Form/Report, PLL, Oracle PL/SQL stored procedures, functions,
+- Enhancement Oracle Form/Report, PLL, Oracle PL/SQL stored procedures, functions,
 packages, and database triggers
 • Conducting Development, SIT, UAT, PAT phase and completed with documentation.
 • Responsible the implementation phase with GBO/Global Batch Ops – Asia teams.
