@@ -1,9 +1,9 @@
 # Hi there, I'm Fachruddin Alatif - udin  [fachruddin alatif](https://www.youtube.com/channel/UC4yw1aUfCVzW2p4CrjsW6_g) 👋
 ## About me:
 - 🔭 I’m currently working as Software Engineer
-- 🌱 I’m currently learning Python, Javascript, Node JS and Next JS
+- 🌱 I’m currently learning Python, Javascript, Node JS Nest JS, Graphql and Next JS
 - 👯 I’m looking to collaborate as Web App, Data Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
+- 🤔 I’m looking for a backend job position
 - 💬 Ask me about anything
 - 📫 How to reach me: fachrudin.alatif@gmail.com
 
